@@ -36,7 +36,7 @@
 
 ### Tools & Technologies
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ### Concepts
