@@ -1,17 +1,101 @@
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdu1vvahid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdu1wahid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fa24-bai-024@cuiatk.edu.pk) 
+<h1 align="center">Hi 👋, I'm Abdul Wahid</h1>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Wahid-6969&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Wahid-6969&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wahid-6969&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="center">Artificial Intelligence Student | Future ML Engineer</h3>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;DSA+Learner;Future+AI+Engineer" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Wahid-6969&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍🎓 About Me
+
+🎓 Artificial Intelligence Student at **COMSATS University Islamabad (Attock Campus)**  
+
+💡 Passionate about **problem-solving, algorithms, and intelligent systems**
+
+🧠 Currently learning:
+- Data Structures & Algorithms  
+- Artificial Intelligence Fundamentals  
+- Machine Learning Basics  
+
+📊 Interested in:
+- Machine Learning  
+- Data Science  
+- AI Systems  
+- Software Development  
+
+---
+
+## 🚀 Tech Stack
+
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp" />
+</p>
+
+### Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+</p>
+
+### Concepts
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- Problem Solving  
+- Mathematical Modeling  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+✔ Master **Data Structures & Algorithms**  
+✔ Build **AI & Machine Learning projects**  
+✔ Contribute to **Open Source**  
+✔ Prepare for **Machine Learning internships**
+
+---
+
+## 🌍 Connect With Me
+
+<p>
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+⭐ *Always open to collaboration on AI/ML projects and learning opportunities.*
