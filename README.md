@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdul Wahid</h1>
+<h1 align="center">Hey! I'm Abdul Wahid</h1>
 
 <h3 align="center">Artificial Intelligence Student | Future ML Engineer</h3>
 
