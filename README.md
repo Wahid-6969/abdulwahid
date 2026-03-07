@@ -87,11 +87,13 @@
 ## 🌍 Connect With Me
 
 <p>
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/abdu1wahid">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://instagram.com/abdu1vvahid">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+<a href="https://github.com/abdulwahid">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
