@@ -118,6 +118,10 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
+<a href="https://leetcode.com/u/abdu1wahid">
+<img src="https://skillicons.dev/icons?i=leetcode"/>
+</a>
+
 </p>
 
 ---
