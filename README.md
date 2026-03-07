@@ -97,12 +97,11 @@
 
 ---
 
-# 📌 Featured Projects (Add your best ones)
+# 📌 Semester Projects
 
-🔹 AI Search Algorithms  
-🔹 Machine Learning Model Projects  
-🔹 Data Structure Implementations  
-🔹 Python Automation Tools  
+🔹 Inventory and Student Management System - JAVA  
+🔹 FreeLance Management System - MySQL  
+🔹 Online Book Store - HTML  
 
 ---
 
