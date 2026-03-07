@@ -40,7 +40,7 @@
 ### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+<img src="https://skillicons.dev/icons?i=github,vscode,jupyter" />
 </p>
 
 ### Core Concepts
@@ -56,9 +56,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=abdulwahid&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwahid&theme=tokyonight" />
 
 </p>
 
@@ -67,7 +67,7 @@
 # 📈 GitHub Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulwahid&theme=tokyo-night"/>
 </p>
 
 ---
@@ -75,7 +75,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abdulwahid&theme=tokyonight&no-frame=true&row=1"/>
 </p>
 
 ---
@@ -83,7 +83,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/abdulwahid/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -110,11 +110,11 @@
 
 <p>
 
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/abdu1wahid">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/abdulwahid">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
