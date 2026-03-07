@@ -1,53 +1,58 @@
-<h1 align="center">Hey! I'm Abdul Wahid</h1>
+<h1 align="center">Hi 👋, I'm Abdul Wahid</h1>
 
-<h3 align="center">Artificial Intelligence Student | Future ML Engineer</h3>
+<h3 align="center">Artificial Intelligence Student | Future Machine Learning Engineer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;DSA+Learner;Future+AI+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Data+Structures+%26+Algorithms+Learner;Future+AI+Engineer" />
 </p>
 
 ---
 
-## 👨‍🎓 About Me
+# 👨‍💻 About Me
 
 🎓 Artificial Intelligence Student at **COMSATS University Islamabad (Attock Campus)**  
 
-💡 Passionate about **problem-solving, algorithms, and intelligent systems**
+💡 Passionate about **Problem Solving, Algorithms, and Intelligent Systems**
 
-🧠 Currently learning:
+📚 Currently Learning
+
 - Data Structures & Algorithms  
 - Artificial Intelligence Fundamentals  
 - Machine Learning Basics  
 
-📊 Interested in:
+🎯 Career Interests
+
 - Machine Learning  
 - Data Science  
-- AI Systems  
-- Software Development  
+- Artificial Intelligence  
+- Software Engineering  
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 ### Programming Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,cpp" />
 </p>
 
 ### Tools & Technologies
+
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 </p>
 
-### Concepts
+### Core Concepts
+
 - Data Structures & Algorithms  
 - Object-Oriented Programming  
 - Problem Solving  
-- Mathematical Modeling  
+- Mathematical Thinking  
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -59,45 +64,62 @@
 
 ---
 
-## 📈 GitHub Activity Graph
+# 📈 GitHub Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulwahid&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abdulwahid&theme=tokyonight&no-frame=true&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1"/>
 </p>
 
 ---
 
-## 🎯 Current Goals
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🎯 Current Goals
 
 ✔ Master **Data Structures & Algorithms**  
-✔ Build **AI & Machine Learning projects**  
+✔ Build **Machine Learning Projects**  
 ✔ Contribute to **Open Source**  
-✔ Prepare for **Machine Learning internships**
+✔ Secure **AI/ML Internship**
 
 ---
 
-## 🌍 Connect With Me
+# 📌 Featured Projects (Add your best ones)
 
-<p align = "center">
-<a href="https://linkedin.com/abdu1wahid">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+🔹 AI Search Algorithms  
+🔹 Machine Learning Model Projects  
+🔹 Data Structure Implementations  
+🔹 Python Automation Tools  
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-<a href="https://instagram.com/abdu1vvahid">
-<img src="https://skillicons.dev/icons?i=instagram" />
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
-<a href="https://github.com/abdulwahid">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+
 </p>
 
 ---
 
-⭐ *Always open to collaboration on AI/ML projects and learning opportunities.*
+⭐ Always open to collaboration on **AI, Machine Learning, and Data Science projects**
