@@ -70,7 +70,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=abdulwahid&theme=tokyonight&no-frame=true&row=1" />
 </p>
 
 ---
@@ -86,7 +86,7 @@
 
 ## 🌍 Connect With Me
 
-<p>
+<p align = "center">
 <a href="https://linkedin.com/abdu1wahid">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
