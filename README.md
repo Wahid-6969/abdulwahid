@@ -112,19 +112,13 @@ A **front-end web project** developed using HTML to simulate an e-commerce books
 <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
 <a href="https://github.com/abdulwahid">
 <img src="https://skillicons.dev/icons?i=github" width="48"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
 <a href="https://instagram.com/abdu1vvahid">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="48"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/abdu1wahid">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48"/>
