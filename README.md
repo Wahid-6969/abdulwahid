@@ -72,14 +72,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abdulwahid&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 # 🎯 Current Goals
 
 ✔ Master **Data Structures & Algorithms**  
