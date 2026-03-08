@@ -98,7 +98,6 @@
 ---
 
 # 🌐 Connect With Me
-
 <p>
 
 <a href="https://linkedin.com/abdu1wahid">
@@ -110,11 +109,10 @@
 </a>
 
 <a href="https://leetcode.com/u/abdu1wahid">
-<img src="https://skillicons.dev/icons?i=leetcode"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48"/>
 </a>
 
 </p>
-
 ---
 
 ⭐ Always open to collaboration on **AI, Machine Learning, and Data Science projects**
