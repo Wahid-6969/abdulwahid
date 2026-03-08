@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Abdul Wahid</h1>
+<h1 align="center">Abdul Wahid</h1>
 
-<h3 align="center">Artificial Intelligence Student | Future Machine Learning Engineer</h3>
+<h3 align="center">
+Artificial Intelligence Student | Future Machine Learning Engineer
+</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=abdulwahid&color=blueviolet&style=flat-square">
@@ -12,28 +14,15 @@
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
-🎓 Artificial Intelligence Student at **COMSATS University Islamabad (Attock Campus)**  
+I am an **Artificial Intelligence student at COMSATS University Islamabad (Attock Campus)** with a strong interest in **machine learning, data science, and intelligent systems**.  
 
-💡 Passionate about **Problem Solving, Algorithms, and Intelligent Systems**
-
-📚 Currently Learning
-
-- Data Structures & Algorithms  
-- Artificial Intelligence Fundamentals  
-- Machine Learning Basics  
-
-🎯 Career Interests
-
-- Machine Learning  
-- Data Science  
-- Artificial Intelligence  
-- Software Engineering  
+My focus is on building a strong foundation in **algorithms, data structures, and mathematical thinking** while developing practical projects related to **AI and software engineering**.
 
 ---
 
-# 🚀 Tech Stack
+# Technical Skills
 
 ### Programming Languages
 
@@ -41,22 +30,22 @@
 <img src="https://skillicons.dev/icons?i=python,java,cpp" />
 </p>
 
-### Tools & Technologies
+### Tools & Development Environment
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=github,vscode,jupyter" />
 </p>
 
-### Core Concepts
+### Core Computer Science Concepts
 
-- Data Structures & Algorithms  
+- Data Structures and Algorithms  
 - Object-Oriented Programming  
-- Problem Solving  
-- Mathematical Thinking  
+- Problem Solving and Logical Thinking  
+- Algorithmic Analysis  
 
 ---
 
-# 📊 GitHub Statistics
+# GitHub Statistics
 
 <p align="center">
 
@@ -68,15 +57,15 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abdulwahid&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=abdulwahid&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
-# 📈 GitHub Activity Graph
+# Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulwahid&theme=tokyo-night"/>
@@ -84,29 +73,38 @@
 
 ---
 
-# 🎯 Current Goals
+# Projects
 
-✔ Master **Data Structures & Algorithms**  
-✔ Build **Machine Learning Projects**  
-✔ Contribute to **Open Source**  
-✔ Secure **AI/ML Internship**
+### Inventory and Student Management System
+Java-based application implementing **object-oriented programming principles and file handling** for managing records efficiently.
 
----
+### Freelance Management System
+A **MySQL-based database system** designed to manage freelancers, projects, and payment information.
 
-# 🚀 Featured Projects
-
-🔹 **Inventory & Student Management System**  
-Java-based system implementing OOP principles and file handling.
-
-🔹 **Freelance Management System**  
-MySQL database system for managing freelancers, projects, and payments.
-
-🔹 **Online Book Store**  
-HTML-based front-end project simulating an e-commerce bookstore interface.
+### Online Book Store
+A **front-end web project** developed using HTML to simulate an e-commerce bookstore interface.
 
 ---
 
-# 🌐 Connect With Me
+# Current Learning Focus
+
+- Advanced Data Structures and Algorithms  
+- Artificial Intelligence Fundamentals  
+- Machine Learning Concepts  
+- Mathematical Foundations for AI  
+
+---
+
+# Career Objectives
+
+- Develop strong expertise in **Machine Learning and Artificial Intelligence**
+- Build real-world **AI and data science projects**
+- Contribute to **open-source software**
+- Secure an **AI / Machine Learning internship**
+
+---
+
+# Connect With Me
 
 <p align="center">
 
@@ -126,4 +124,6 @@ HTML-based front-end project simulating an e-commerce bookstore interface.
 
 ---
 
-⭐ Always open to collaboration on **AI, Machine Learning, and Data Science projects**
+<p align="center">
+Open to collaboration on Artificial Intelligence, Machine Learning, and Data Science projects.
+</p>
