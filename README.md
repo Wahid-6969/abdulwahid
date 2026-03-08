@@ -3,6 +3,10 @@
 <h3 align="center">Artificial Intelligence Student | Future Machine Learning Engineer</h3>
 
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=abdulwahid&color=blueviolet&style=flat-square">
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Data+Structures+%26+Algorithms+Learner;Future+AI+Engineer" />
 </p>
 
@@ -33,13 +37,13 @@
 
 ### Programming Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,cpp" />
 </p>
 
 ### Tools & Technologies
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=github,vscode,jupyter" />
 </p>
 
@@ -64,6 +68,14 @@
 
 ---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=abdulwahid&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
 # 📈 GitHub Activity Graph
 
 <p align="center">
@@ -81,16 +93,22 @@
 
 ---
 
-# 📌 Semester Projects
+# 🚀 Featured Projects
 
-🔹 Inventory and Student Management System - JAVA  
-🔹 FreeLance Management System - MySQL  
-🔹 Online Book Store - HTML  
+🔹 **Inventory & Student Management System**  
+Java-based system implementing OOP principles and file handling.
+
+🔹 **Freelance Management System**  
+MySQL database system for managing freelancers, projects, and payments.
+
+🔹 **Online Book Store**  
+HTML-based front-end project simulating an e-commerce bookstore interface.
 
 ---
 
 # 🌐 Connect With Me
-<p>
+
+<p align="center">
 
 <a href="https://linkedin.com/abdu1wahid">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
@@ -105,6 +123,7 @@
 </a>
 
 </p>
+
 ---
 
 ⭐ Always open to collaboration on **AI, Machine Learning, and Data Science projects**
